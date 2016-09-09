@@ -26,27 +26,28 @@ align with state fiscal year.
 
 ## Progress, Tasks/Milestones/Deliverables
 
-Task/Milestone/Deliverable|Complete|Target date
---|--|--|
-**Architecture and application security** ||4/30/2018
-- Initiate project | 25% | 10/31/2016
-- Build reference architecture | 10% | 9/30/2016
-- Develop standards | 15% | 10/31/2016
+| Task/Milestone/Deliverable | Complete | Target date |
+|---|---|---|
+| **Architecture and application security** | | 4/30/2018 |
+| - Initiate project | 25% | 10/31/2016 |
+| - Build reference architecture | 10% | 9/30/2016 |
+| - Develop standards | 15% | 10/31/2016 |
+
 ## Project Organization
 
 ### Overall Project
-Role|Name|% Dedication|Contractor?
---|
-Program Manager|Alice Smith|100%|
-Associate Program Manager|Bob Parker|100%|
-Associate Program Manager|Christine Johnson|100%|
-Project Sponsor|David Taft|100%|
+| Role | Name | % Dedication | Contractor? |
+|---|---|---|---|
+| Program Manager | Alice Smith | 100% |
+| Associate Program Manager | Bob Parker | 100% |
+| Associate Program Manager | Christine Johnson | 100% |
+| Project Sponsor | David Taft | 100% |
 
 ### Architecture
-Role|Name|% Dedication|Contractor?
---|
-Project Manager|Elizabeth Robertson|100%|
-Architect|Frank Drebin|100%|Yes
-Data Modeler|Gail Swanson|50%|
-DBA-Ops|Henry Young|50%|Yes
-Security Architect|Isolde|75%|
+| Role | Name| % Dedication | Contractor? |
+|---|---|---|---|
+| Project Manager | Elizabeth Robertson | 100% |
+| Architect | Frank Drebin | 100% | Yes |
+| Data Modeler | Gail Swanson | 50% |
+| DBA-Ops | Henry Young | 50% | Yes |
+| Security Architect | Isolde | 75% |
